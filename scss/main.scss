@@ -93,6 +93,21 @@ $font-family-sans-serif: "Poppins", sans-serif;
   }
 }
 
+.single-banner {
+  border: 4px solid #fff;
+  position: relative;
+  overflow: hidden;
+  img {
+    width: 100%;
+    transition: all 0.5s ease 0s;
+    transform: scale(1);
+  }
+  .banner-content {
+    position: absolute;
+    top: 0;
+  }
+}
+
 // Custome Sss End
 
 // Bootstrap scss import Start

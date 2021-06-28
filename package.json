@@ -1,7 +1,6 @@
 {
   "name": "flone-ecommerce",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -24,5 +23,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "bootstrap": "^5.0.1"
-  }
+  },
+  "description": ""
 }
